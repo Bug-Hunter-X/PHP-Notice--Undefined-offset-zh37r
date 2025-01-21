@@ -1,0 +1,2 @@
+# PHP Notice: Undefined offset Bug
+This repository demonstrates a common PHP error: "Undefined offset". This occurs when trying to access an array element using a key that doesn't exist or is of the wrong type.  The code includes a problematic example and its corrected version.
