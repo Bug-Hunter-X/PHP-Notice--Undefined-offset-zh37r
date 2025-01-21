@@ -1,0 +1,1 @@
+This code attempts to access an array element using a non-integer index.  PHP will issue a warning, and the result will be an unexpected value (often NULL).
